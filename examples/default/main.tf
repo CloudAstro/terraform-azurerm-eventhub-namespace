@@ -9,7 +9,7 @@ module "eventhub-namespace" {
   name                          = "example-eventhub-namespace"
   location                      = azurerm_resource_group.this.location
   resource_group_name           = azurerm_resource_group.this.name
-  sku                           = "Basic"
+  sku                           = "Standard"
 
   eventhub = {
     app-logs = {
