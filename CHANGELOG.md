@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/CloudAstro/terraform-azurerm-eventhub-namespace/compare/v1.0.0...v1.1.0) (2026-06-18)
+
+
+### Features
+
+* bump tf and provider version ([bda0720](https://github.com/CloudAstro/terraform-azurerm-eventhub-namespace/commit/bda072005deda324ae4313ee4f2b5fa86ce0265d))
+
 ## 1.0.0 (2025-06-26)
 
 
